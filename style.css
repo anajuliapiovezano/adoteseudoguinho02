@@ -1,13 +1,22 @@
+body {
+  background-color: #e1e6e3
+}
+
 h1{
-  text-align: center; font-size: 100px; color: #ffe792;
+  text-align: center; font-size: 100px; color: #207178;
 }
 p {
   font-size: 50px
 }
-p{text-align: center;font-size: 50px;color: #a2d3c7}
-#cachorrinho02{
-  width: 10%
+p{
+  text-align: center;font-size: 50px;color: #000000
 }
-body {
-  background-color: #56877d
+#cachorrinho02{
+  width: 16%
+  }
+#cachorrinho04{
+  width:25%
+}
+#cachorrinho05{
+  width:30%
 }
