@@ -11,6 +11,11 @@ p {
 p{
   text-align: center;font-size: 50px;color: #000000
 }
+#cachorrinho01{
+  width: 25%;
+  border: 5px solid #000000;
+  border-radius: 10px;
+}
 #cachorrinho02{
   width: 16%;
   border: 5px solid #000000;
@@ -90,3 +95,7 @@ border-radius: 10px;
   text-align: center;
   font-size: 200%
 }
+
+ .dogs3{
+   margin-left: 650px
+ }
